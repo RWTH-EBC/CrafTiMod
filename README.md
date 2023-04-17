@@ -14,6 +14,8 @@ This repository contains 3 files:
 	> Interview guidline used in the expert interviews. Other data can be collected by using the guideline.
 - '''paper.pdf''':
 	> Paper describing the method of data collection, statistical analyses, technical validation and usage notes.
+- '''license''':
+	> License under which the data can be used. 
 	
 ## Publications
 
@@ -23,6 +25,6 @@ The realization times have been presented in the following paper:
 
 ## License & copyright
 
-Jan Richarz, Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University
+Jan Richarz Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the Creative Commons Attribution 4.0 International Public License.
