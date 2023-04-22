@@ -19,12 +19,11 @@ This repository contains 3 files:
 	
 ## Publications
 
-The realization times have been presented in the following paper:
+The realization times will be presented in an open access peer-reviewed paper. Until its publication the realization times should be cited in the following way:
 
-<i>	Craftworker's realization times for energetic modernization measures of existing buildings. .</i> J. Richarz, N. Fuchs, J. Zurke, J. Imberg, T. Datsko, D. Hering, D. Müller. 
+<i>	Richarz, J.; Fuchs, N.; Zurke, J.; Imberg, J.; Datsko, T.; Hering, D.; Müller, D.. Craftworker's realization times for energetic modernization measures of existing buildings. Aachen: RWTH Aachen University, 2023. https://github.com/RWTH-EBC/CrafTiMod
 
 ## License & copyright
 
-Jan Richarz Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University
-
+(c) Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University.
 Licensed under the Creative Commons Attribution 4.0 International Public License.
