@@ -1,0 +1,19 @@
+Oil boiler deinstallation,,,,,
+Oil boiler deinstallation - realization times in person-hours per boiler,,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,small,large
+B,GT1,10/13/2022,Oil Deinstallation,25,33
+B,GT2,1/24/2023,Oil Deinstallation,48,56
+B,GT3,2/22/2023,Oil Deinstallation,32,50
+B,GT4,3/8/2023,Oil Deinstallation,25,48
+B,GT5,3/8/2023,Oil Deinstallation,32,64
+B,GT6,3/8/2023,Oil Deinstallation,32,32
+C,GT9,3/8/2023,Oil Deinstallation,12,24
+C,GT10,10/13/2022,Oil Deinstallation,96,120
+C,GT11,2/27/2023,Oil Deinstallation,48,60
+C,GT12,2/2/2023,Oil Deinstallation,16,32
+A,GT25,2/14/2023,Oil Deinstallation,30,30
+A,GT26,2/14/2023,Oil Deinstallation,30,30
+A,GT27,2/16/2023,Oil Deinstallation,50,50
+A,GT28,2/16/2023,Oil Deinstallation,32,32
+A,GT29,2/22/2023,Oil Deinstallation,32,32
+A,GT31,2/27/2023,Oil Deinstallation,50,50

@@ -1,0 +1,15 @@
+District heating connection,,,,
+District heating connection - realization times in person-hours per connection,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Average
+B,GT1,10/13/2022,DH connection,20
+B,GT2,1/24/2023,DH connection,146
+B,GT3,2/22/2023,DH connection,80
+B,GT4,3/8/2023,DH connection,57.6
+B,GT5,3/8/2023,DH connection,24
+B,GT6,3/8/2023,DH connection,16
+C,GT10,10/13/2022,DH connection,24
+C,GT11,2/27/2023,DH connection,16
+C,GT12,2/2/2023,DH connection,48
+A,GT24,2/3/2023,DH connection,30
+A,GT30,2/25/2023,DH connection,24
+A,GT33,3/2/2023,DH connection,32

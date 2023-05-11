@@ -1,0 +1,14 @@
+Thermal storage ,,,,,
+Thermal storage - realization times in person-hours per storage,,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Small,Large
+B,GT1,10/13/2022,Thermal Storage,11,
+B,GT2,1/24/2023,Thermal Storage,24,
+B,GT3,2/22/2023,Thermal Storage,32,32
+B,GT4,3/8/2023,Thermal Storage,16,32
+B,GT5,3/8/2023,Thermal Storage,16,
+B,GT6,3/8/2023,Thermal Storage,16,
+B,GT7,3/8/2023,Thermal Storage,16,
+C,GT8,3/8/2023,Thermal Storage,16,24
+C,GT9,3/8/2023,Thermal Storage,16,32
+C,GT10,10/13/2022,Thermal Storage,16,48
+,,,,,

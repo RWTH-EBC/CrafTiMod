@@ -1,0 +1,16 @@
+CHP installation ,,,,
+CHP installation - realization times in person-hours per device,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Average
+B,GT1,10/13/2022,CHP,26
+B,GT2,1/24/2023,CHP,34.5
+B,GT3,2/22/2023,CHP,48
+B,GT4,3/8/2023,CHP,80
+B,GT5,3/8/2023,CHP,34
+B,GT6,3/8/2023,CHP,80
+C,GT10,10/13/2022,CHP,80
+C,GT11,2/27/2023,CHP,80
+C,GT12,2/2/2023,CHP,320
+A,GT25,2/14/2023,CHP,50
+A,GT26,2/14/2023,CHP,80
+A,GT27,2/16/2023,CHP,56
+A,GT30,2/25/2023,CHP,80

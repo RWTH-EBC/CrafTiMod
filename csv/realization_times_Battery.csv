@@ -1,0 +1,10 @@
+Battery installation,,,,,,
+Battery - realization times in person-hours ,,,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Minimum,Average,Maximum
+A,GT3,2/22/2023,Battery,1,2,3
+A,GH19,1/31/2023,Battery,,1,4
+A,GH29,2/24/2023,Battery,,0.5,
+A,GH52,2/6/2023,Battery,,1,
+A,GT24,2/3/2023,Battery,,1,8
+A,GT29,2/22/2023,Battery,,4,
+A,GT31,2/27/2023,Battery,,8,

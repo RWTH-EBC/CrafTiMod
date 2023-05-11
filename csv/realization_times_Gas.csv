@@ -1,0 +1,17 @@
+Gas boiler installation ,,,,
+Gas boiler installation - realization times in person-hours per boiler,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Average
+B,GT1,10/13/2022,Gas boiler,20
+B,GT2,1/24/2023,Gas boiler,64
+B,GT3,2/22/2023,Gas boiler,56
+B,GT4,3/8/2023,Gas boiler,72
+B,GT5,3/8/2023,Gas boiler,16
+B,GT6,3/8/2023,Gas boiler,24
+C,GT9,3/8/2023,Gas boiler,24
+C,GT10,10/13/2022,Gas boiler,64
+C,GT11,2/27/2023,Gas boiler,48
+C,GT12,2/2/2023,Gas boiler,80
+A,GT24,2/3/2023,Gas boiler,24
+A,GT26,2/14/2023,Gas boiler,40
+A,GT29,2/22/2023,Gas boiler,24
+A,GT33,3/2/2023,Gas boiler,50

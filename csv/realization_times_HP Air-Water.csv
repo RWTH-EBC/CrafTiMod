@@ -1,0 +1,15 @@
+Air-to-Water Heat pump,,,,
+Air-to-Water Heat pump installation - realization times in person-hours per device,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Average
+B,GT1,10/13/2022,HP Air-Water,30
+B,GT2,1/24/2023,HP Air-Water,60
+B,GT3,2/22/2023,HP Air-Water,28
+B,GT4,3/8/2023,HP Air-Water,64
+B,GT5,3/8/2023,HP Air-Water,40
+B,GT6,3/8/2023,HP Air-Water,24
+C,GT9,3/8/2023,HP Air-Water,24
+C,GT10,10/13/2022,HP Air-Water,48
+C,GT11,2/27/2023,HP Air-Water,80
+C,GT12,2/2/2023,HP Air-Water,160
+A,GT30,2/25/2023,HP Air-Water,64
+A,GT34,3/8/2023,HP Air-Water,60

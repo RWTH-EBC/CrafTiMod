@@ -1,0 +1,16 @@
+Photovoltaic collectors ,,,,,,
+Photovoltaic collectors - realization times in person-hours per collector,,,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Minimum,Average,Maximum
+B,GT1,10/13/2022,Photovoltaics,,4.3,
+B,GT2,1/24/2023,Photovoltaics,,6.25,
+B,GT3,2/22/2023,Photovoltaics,,10,
+A,GH19,1/31/2023,Photovoltaics,,8.7,
+A,GH25,2/9/2023,Photovoltaics,4,5.6,10
+A,GH29,2/24/2023,Photovoltaics,4,6,8
+A,GH32,3/14/2023,Photovoltaics,,8,12
+A,GH36,1/28/2023,Photovoltaics,1.8,2.4,3.8
+A,GH39,1/29/2023,Photovoltaics,8,10,16
+A,GH52,2/6/2023,Photovoltaics,,10,
+A,GT24,2/3/2023,Photovoltaics,10,12,20
+A,GT29,2/22/2023,Photovoltaics,,16,
+A,GT31,2/27/2023,Photovoltaics,,16,

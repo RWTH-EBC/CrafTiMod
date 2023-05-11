@@ -1,0 +1,21 @@
+Geothermal probe  ,,,,
+Geothermal probe - realization times in person-hours per probe,,,,
+Interviewer ID,Company ID,Date (DD/MM/YYYY),Measure,Average
+B,GT1,10/13/2022,Geo Probe,50
+B,GT2,1/24/2023,Geo Probe,84
+B,GT3,2/22/2023,Geo Probe,110
+D,GT15,1/13/2023,Geo Probe,110
+D,GT16,1/20/2023,Geo Probe,49.5
+D,GT17,1/20/2023,Geo Probe,48
+D,GT18,1/20/2023,Geo Probe,32
+D,GT19,1/24/2023,Geo Probe,50
+D,GT20,1/25/2023,Geo Probe,56
+D,GT21,2/14/2023,Geo Probe,65
+D,GT22,2/14/2023,Geo Probe,122
+D,GT23,2/14/2023,Geo Probe,43.75
+A,GT25,2/14/2023,Geo Probe,140
+A,GT27,2/16/2023,Geo Probe,100
+A,GH39,1/29/2023,Geo Probe,80
+A,GT30,2/25/2023,Geo Probe,100
+A,GT32,3/1/2023,Geo Probe,160
+A,GT33,3/2/2023,Geo Probe,100
