@@ -6,10 +6,12 @@ This repository contains data for realization times of modernization measures fo
 
 ## Files
 
-This repository contains 3 files: 
+This repository contains the following files and folders: 
 
 - '''realization_times.xlsx''':
 	> Realization times by modernization measure. The file contains all interview data, divided into one sheet per modernization measure.
+- '''raw_data_csv''':
+	> Folder containing the realization times by modernization measure in csv format in different files per measure.
 - '''interview_guidline.pdf''':
 	> Interview guidline used in the expert interviews. Other data can be collected by using the guideline.
 - '''paper.pdf''':
