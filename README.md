@@ -14,7 +14,7 @@ This repository contains 3 files:
 	> Interview guidline used in the expert interviews. Other data can be collected by using the guideline.
 - '''paper.pdf''':
 	> Paper describing the method of data collection, statistical analyses, technical validation and usage notes.
-- '''license''':
+- '''LICENSE''':
 	> License under which the data can be used. 
 	
 ## Publications
