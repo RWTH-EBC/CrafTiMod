@@ -10,11 +10,11 @@ This repository contains 3 files:
 
 - '''realization_times.xlsx''':
 	> Realization times by modernization measure. The file contains all interview data, divided into one sheet per modernization measure.
-- '''interview_guidline.docx''':
+- '''interview_guidline.pdf''':
 	> Interview guidline used in the expert interviews. Other data can be collected by using the guideline.
 - '''paper.pdf''':
 	> Paper describing the method of data collection, statistical analyses, technical validation and usage notes.
-- '''license''':
+- '''LICENSE''':
 	> License under which the data can be used. 
 	
 ## Publications
