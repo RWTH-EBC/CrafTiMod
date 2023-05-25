@@ -23,7 +23,7 @@ This repository contains the following files and folders:
 
 The realization times will be presented in an open access peer-reviewed paper. Until its publication the realization times should be cited in the following way:
 
-<i>	Richarz, J.; Fuchs, N.; Zurke, J.; Imberg, J.; Datsko, T.; Hering, D.; Müller, D.. Craftworker's realization times for energetic modernization measures of existing buildings. Aachen: Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University, 2023. https://github.com/RWTH-EBC/CrafTiMod
+<i>	Richarz, J.; Fuchs, N.; Zurke, J.; Imberg, J.; Datsko, T.; Hering, D.; Müller, D.. Realization times of energetic modernization measures for buildings based on interviews with craftworkers. Aachen: Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University, 2023. https://github.com/RWTH-EBC/CrafTiMod
 
 ## License & copyright
 
