@@ -1,0 +1,2874 @@
+[
+  {
+    "sheet_name": "Mean Values",
+    "content": "Mean values and 95 % confidence intervals",
+    "description": "Mean values and 95 % confidence intervals (CI) for the specific realization times of modernization measures based on the expert interviews",
+    "data": [
+      {
+        "Modernization Measure": "Insulate exterior wall",
+        "CI2.5 %": 1.27,
+        "Mean": 1.39,
+        "CI97.5 %": 1.51,
+        "Unit": "h/m^2"
+      },
+      {
+        "Modernization Measure": "Insulate flat roof",
+        "CI2.5 %": 0.1,
+        "Mean": 0.13,
+        "CI97.5 %": 0.17,
+        "Unit": "h/m^2"
+      },
+      {
+        "Modernization Measure": "Insulate pitched roof",
+        "CI2.5 %": 0.14,
+        "Mean": 0.19,
+        "CI97.5 %": 0.24,
+        "Unit": "h/m^2"
+      },
+      {
+        "Modernization Measure": "Insulate ground floor",
+        "CI2.5 %": 0.4,
+        "Mean": 0.48,
+        "CI97.5 %": 0.56,
+        "Unit": "h/m^2"
+      },
+      {
+        "Modernization Measure": "Replace windows",
+        "CI2.5 %": 5.94,
+        "Mean": 6.93,
+        "CI97.5 %": 7.89,
+        "Unit": "h/m^2"
+      },
+      {
+        "Modernization Measure": "Deinstall gas boiler (small)",
+        "CI2.5 %": 14,
+        "Mean": 18.1,
+        "CI97.5 %": 23.6,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Deinstall gas boiler (large)",
+        "CI2.5 %": 22.9,
+        "Mean": 30.1,
+        "CI97.5 %": 39.3,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Deinstall oil boiler (small)",
+        "CI2.5 %": 28.8,
+        "Mean": 36.9,
+        "CI97.5 %": 46.9,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Deinstall oil boiler (large)",
+        "CI2.5 %": 37.5,
+        "Mean": 47.4,
+        "CI97.5 %": 60,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install gas boiler",
+        "CI2.5 %": 32.4,
+        "Mean": 43.3,
+        "CI97.5 %": 54.3,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install pellet boiler ",
+        "CI2.5 %": 86.8,
+        "Mean": 110,
+        "CI97.5 %": 133.2,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install combined heat and power unit",
+        "CI2.5 %": 52.1,
+        "Mean": 80.7,
+        "CI97.5 %": 125.2,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install district heat exchanger",
+        "CI2.5 %": 25.6,
+        "Mean": 44.3,
+        "CI97.5 %": 69.8,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install solar thermal system",
+        "CI2.5 %": 4.5,
+        "Mean": 5.69,
+        "CI97.5 %": 6.99,
+        "Unit": "h/module"
+      },
+      {
+        "Modernization Measure": "Install photovoltaic system",
+        "CI2.5 %": 6.76,
+        "Mean": 8.87,
+        "CI97.5 %": 11.05,
+        "Unit": "h/module"
+      },
+      {
+        "Modernization Measure": "Install air-to-water heat pump",
+        "CI2.5 %": 39.8,
+        "Mean": 56.8,
+        "CI97.5 %": 79.3,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install geothermal heat pump",
+        "CI2.5 %": 34.4,
+        "Mean": 53.2,
+        "CI97.5 %": 74.4,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install compression chiller",
+        "CI2.5 %": 36,
+        "Mean": 58.7,
+        "CI97.5 %": 86,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install battery storage",
+        "CI2.5 %": 1.6,
+        "Mean": 3.95,
+        "CI97.5 %": 7.1,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install thermal energy storage (small)",
+        "CI2.5 %": 15,
+        "Mean": 17.9,
+        "CI97.5 %": 21.6,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install thermal energy storage (large)",
+        "CI2.5 %": 27.2,
+        "Mean": 33.6,
+        "CI97.5 %": 41.6,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Replace radiator",
+        "CI2.5 %": 2.27,
+        "Mean": 3.2,
+        "CI97.5 %": 4.08,
+        "Unit": "h/device"
+      },
+      {
+        "Modernization Measure": "Install geothermal collector",
+        "CI2.5 %": 0.25,
+        "Mean": 0.39,
+        "CI97.5 %": 0.55,
+        "Unit": "h/m^2 collector area"
+      },
+      {
+        "Modernization Measure": "Install geothermal probe",
+        "CI2.5 %": 67.5,
+        "Mean": 83.4,
+        "CI97.5 %": 100.4,
+        "Unit": "h/ probe"
+      }
+    ]
+  },
+  {
+    "sheet_name": "Outer Wall",
+    "content": "Outer wall insulation",
+    "description": "Outer wall thermal insulation - realization times in person-hours per m^2",
+    "data": [
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH1",
+        "Date (DD/MM/YYYY)": "2023-01-23",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.9125,
+        "Average": 1.1,
+        "Maximum ": 1215
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH2",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1165,
+        "Average": 1.5,
+        "Maximum ": 2.39
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH3",
+        "Date (DD/MM/YYYY)": "2023-02-24",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 21525,
+        "Average": 2235,
+        "Maximum ": 23175
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH4",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Outer wall insulation",
+        "Minimum ": null,
+        "Average": 1675,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH5",
+        "Date (DD/MM/YYYY)": "2023-02-04",
+        "Measure": "Outer wall insulation",
+        "Minimum ": null,
+        "Average": 1.79,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH6",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.9,
+        "Average": 1.25,
+        "Maximum ": 1.55
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH8",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Outer wall insulation",
+        "Minimum ": null,
+        "Average": 1.9,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH9",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": null,
+        "Maximum ": 1.75
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH10",
+        "Date (DD/MM/YYYY)": "2023-01-23",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.625,
+        "Average": 0.9,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH11",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": 1.5,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH12",
+        "Date (DD/MM/YYYY)": "2023-02-11",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": 1.4,
+        "Maximum ": 1.8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH13",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Outer wall insulation",
+        "Minimum ": null,
+        "Average": 2,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH16",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.1,
+        "Average": 1.5,
+        "Maximum ": 2.4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH17",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.2,
+        "Average": 1.1,
+        "Maximum ": 2.45
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH18",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.48,
+        "Average": 1445,
+        "Maximum ": 0.96
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH19",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.75,
+        "Average": 1.8,
+        "Maximum ": 1
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH20",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.9,
+        "Average": 1125,
+        "Maximum ": 1.9
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH21",
+        "Date (DD/MM/YYYY)": "2023-02-04",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1125,
+        "Average": 1.55,
+        "Maximum ": 1.6
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH22",
+        "Date (DD/MM/YYYY)": "2023-02-05",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.75,
+        "Average": 1,
+        "Maximum ": 1.25
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH23",
+        "Date (DD/MM/YYYY)": "2023-02-07",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": 1,
+        "Maximum ": 1.5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH24",
+        "Date (DD/MM/YYYY)": "2023-02-09",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1225,
+        "Average": 1375,
+        "Maximum ": 1.95
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH25",
+        "Date (DD/MM/YYYY)": "2023-02-09",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.35,
+        "Average": 1.5,
+        "Maximum ": 2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH26",
+        "Date (DD/MM/YYYY)": "2023-02-11",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.5,
+        "Average": 1.2,
+        "Maximum ": 0.8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH27",
+        "Date (DD/MM/YYYY)": "2023-02-13",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.75,
+        "Average": 2.25,
+        "Maximum ": 1125
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH28",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.775,
+        "Average": 1125,
+        "Maximum ": 1.5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH29",
+        "Date (DD/MM/YYYY)": "2023-02-24",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.55,
+        "Average": 1.25,
+        "Maximum ": 1.1
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH30",
+        "Date (DD/MM/YYYY)": "2023-03-04",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": 0.7,
+        "Maximum ": 1.9
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH34",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.32,
+        "Average": 1.48,
+        "Maximum ": 1.1
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH35",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.975,
+        "Average": 0.8,
+        "Maximum ": 2.25
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH36",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.28,
+        "Average": 1.4,
+        "Maximum ": 1.6
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH39",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 2.5,
+        "Average": 2.5,
+        "Maximum ": 2.75
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH43",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.5,
+        "Average": 1.75,
+        "Maximum ": 1.75
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH46",
+        "Date (DD/MM/YYYY)": "2023-01-30",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1225,
+        "Average": 1.75,
+        "Maximum ": 2.35
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH47",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.6,
+        "Average": 0.8,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH48",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.7,
+        "Average": 0.9,
+        "Maximum ": 1.25
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH49",
+        "Date (DD/MM/YYYY)": "2023-02-04",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.925,
+        "Average": 1.25,
+        "Maximum ": 1.5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH50",
+        "Date (DD/MM/YYYY)": "2023-02-05",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.5,
+        "Average": 0.6,
+        "Maximum ": 0.9
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH52",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.5,
+        "Average": 1.6,
+        "Maximum ": 1.8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH53",
+        "Date (DD/MM/YYYY)": "2023-02-09",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.75,
+        "Average": 1.5,
+        "Maximum ": 2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH54",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.1,
+        "Average": 1.1,
+        "Maximum ": 1.1
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH55",
+        "Date (DD/MM/YYYY)": "2023-01-30",
+        "Measure": "Outer wall insulation",
+        "Minimum ": null,
+        "Average": 1.1,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH56",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 0.6,
+        "Average": 0.96,
+        "Maximum ": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH57",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": 1.25,
+        "Maximum ": 1.5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH58",
+        "Date (DD/MM/YYYY)": "2023-02-05",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1.8,
+        "Average": 1884,
+        "Maximum ": 1.26
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH59",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Outer wall insulation",
+        "Minimum ": 1,
+        "Average": 1.25,
+        "Maximum ": 1.5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH60",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Outer wall insulation",
+        "Minimum ": null,
+        "Average": 1.5,
+        "Maximum ": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "P-Roof",
+    "content": "Pitched-roof insulation ",
+    "description": "Pitched-roof insulation - realization times in person-hours per m^2",
+    "data": [
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH08",
+        "Date (DD/MM/YYYY)": "2022-10-07",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.34,
+        "Average": 0.34,
+        "Maximum": 0.34
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH7",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.12,
+        "Average": 0.15,
+        "Maximum": 0.2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH9",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.2,
+        "Average": 0.25,
+        "Maximum": 0.3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH17",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.1,
+        "Average": null,
+        "Maximum": 0.36
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH22",
+        "Date (DD/MM/YYYY)": "2023-02-05",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.024,
+        "Average": null,
+        "Maximum": 0.12
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH30",
+        "Date (DD/MM/YYYY)": "2023-03-04",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.1,
+        "Average": 0.15,
+        "Maximum": 0.2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH33",
+        "Date (DD/MM/YYYY)": "2023-03-22",
+        "Measure": "Pitched-roof ",
+        "Minimum": null,
+        "Average": 0.3,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH39",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.15,
+        "Average": 0.25,
+        "Maximum": 0.25
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH44",
+        "Date (DD/MM/YYYY)": "2023-01-30",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.128,
+        "Average": null,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH47",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.076,
+        "Average": 0.075,
+        "Maximum": 0.15
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH50",
+        "Date (DD/MM/YYYY)": "2023-02-05",
+        "Measure": "Pitched-roof ",
+        "Minimum": 0.075,
+        "Average": 0.12,
+        "Maximum": 0.15
+      }
+    ]
+  },
+  {
+    "sheet_name": "F-Roof",
+    "content": "Flat-roof insulation",
+    "description": "Flat-roof insulation - realization times in person-hours per m^2",
+    "data": [
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH2",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Flat-roof",
+        "Minimum": 0.1,
+        "Average": 0.15,
+        "Maximum": 0.2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH5",
+        "Date (DD/MM/YYYY)": "2023-02-04",
+        "Measure": "Flat-roof",
+        "Minimum": 0.2,
+        "Average": 0.24,
+        "Maximum": 0.26
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH6",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Flat-roof",
+        "Minimum": 0.1,
+        "Average": null,
+        "Maximum": 0.16
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH7",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Flat-roof",
+        "Minimum": null,
+        "Average": 0.075,
+        "Maximum": 0.13
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH17",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Flat-roof",
+        "Minimum": 0.05,
+        "Average": 0.05,
+        "Maximum": 0.1
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH18",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Flat-roof",
+        "Minimum": 0.075,
+        "Average": 0.1,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH26",
+        "Date (DD/MM/YYYY)": "2023-02-11",
+        "Measure": "Flat-roof",
+        "Minimum": 0.12,
+        "Average": 0.15,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH28",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Flat-roof",
+        "Minimum": 0.128,
+        "Average": null,
+        "Maximum": 0.2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH39",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Flat-roof",
+        "Minimum": 0.076,
+        "Average": null,
+        "Maximum": 0.15
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH44",
+        "Date (DD/MM/YYYY)": "2023-01-30",
+        "Measure": "Flat-roof",
+        "Minimum": 0.1,
+        "Average": 0.12,
+        "Maximum": 0.15
+      }
+    ]
+  },
+  {
+    "sheet_name": "Window",
+    "content": "Window replacement",
+    "description": "Exchange of exisiting window - realization times in person-hours per window",
+    "data": [
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH01",
+        "Date (DD/MM/YYYY)": "2022-10-06",
+        "Measure": "Window",
+        "Minimum": null,
+        "Average": 8,
+        "Maximum": null,
+        "null": null
+      },
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH02",
+        "Date (DD/MM/YYYY)": "2022-10-06",
+        "Measure": "Window",
+        "Minimum": 4,
+        "Average": 8,
+        "Maximum": 8,
+        "null": null
+      },
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH03",
+        "Date (DD/MM/YYYY)": "2022-10-06",
+        "Measure": "Window",
+        "Minimum": 5,
+        "Average": 9,
+        "Maximum": 9,
+        "null": null
+      },
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH04",
+        "Date (DD/MM/YYYY)": "2022-11-29",
+        "Measure": "Window",
+        "Minimum": 3.5,
+        "Average": 8.75,
+        "Maximum": 8.75,
+        "null": null
+      },
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH05",
+        "Date (DD/MM/YYYY)": "2022-11-29",
+        "Measure": "Window",
+        "Minimum": 4,
+        "Average": 8,
+        "Maximum": 8,
+        "null": null
+      },
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH06",
+        "Date (DD/MM/YYYY)": "2022-11-29",
+        "Measure": "Window",
+        "Minimum": 4.5,
+        "Average": 9.2,
+        "Maximum": 9.2,
+        "null": null
+      },
+      {
+        "Interviewer ID": "E",
+        "Company ID": "GH07",
+        "Date (DD/MM/YYYY)": "2022-11-29",
+        "Measure": "Window",
+        "Minimum": 3,
+        "Average": 7,
+        "Maximum": 7,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH1",
+        "Date (DD/MM/YYYY)": "2023-01-23",
+        "Measure": "Window",
+        "Minimum": 3,
+        "Average": 5,
+        "Maximum": null,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH4",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Window",
+        "Minimum": 5,
+        "Average": 8,
+        "Maximum": 10,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH8",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Window",
+        "Minimum": 3,
+        "Average": 4,
+        "Maximum": 5,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH10",
+        "Date (DD/MM/YYYY)": "2023-01-23",
+        "Measure": "Window",
+        "Minimum": 4,
+        "Average": 5,
+        "Maximum": null,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH13",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Window",
+        "Minimum": 5,
+        "Average": 10,
+        "Maximum": 15,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH26",
+        "Date (DD/MM/YYYY)": "2023-02-11",
+        "Measure": "Window",
+        "Minimum": null,
+        "Average": 5,
+        "Maximum": null,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH39",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Window",
+        "Minimum": 4.5,
+        "Average": 6,
+        "Maximum": 9,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH44",
+        "Date (DD/MM/YYYY)": "2023-01-30",
+        "Measure": "Window",
+        "Minimum": 2,
+        "Average": 4,
+        "Maximum": null,
+        "null": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH50",
+        "Date (DD/MM/YYYY)": "2023-02-05",
+        "Measure": "Window",
+        "Minimum": 4,
+        "Average": 5,
+        "Maximum": 6,
+        "null": null
+      },
+      {
+        "Interviewer ID": null,
+        "Company ID": null,
+        "Date (DD/MM/YYYY)": null,
+        "Measure": null,
+        "Minimum": null,
+        "Average": null,
+        "Maximum": null,
+        "null": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "Floor",
+    "content": "Floor-insulation (on-/underground)",
+    "description": "Floor-insulation (on- or underground) - realization times in person-hours per m^2",
+    "data": [
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH4",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Floor insulation",
+        "Average": 0.4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH8",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Floor insulation",
+        "Average": 0.8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH9",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Floor insulation",
+        "Average": 0.6
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH10",
+        "Date (DD/MM/YYYY)": "2023-01-23",
+        "Measure": "Floor insulation",
+        "Average": 0.5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH20",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Floor insulation",
+        "Average": 0.4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH21",
+        "Date (DD/MM/YYYY)": "2023-02-04",
+        "Measure": "Floor insulation",
+        "Average": 0.3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH29",
+        "Date (DD/MM/YYYY)": "2023-02-24",
+        "Measure": "Floor insulation",
+        "Average": 0.3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH31",
+        "Date (DD/MM/YYYY)": "2023-03-18",
+        "Measure": "Floor insulation",
+        "Average": 0.45
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH32",
+        "Date (DD/MM/YYYY)": "2023-03-14",
+        "Measure": "Floor insulation",
+        "Average": 0.6
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH33",
+        "Date (DD/MM/YYYY)": "2023-03-22",
+        "Measure": "Floor insulation",
+        "Average": 0.8
+      }
+    ]
+  },
+  {
+    "sheet_name": "Floor Blow-In",
+    "content": "Floor insulation (Blow-In) ",
+    "description": "Floor insulation (Blow-In) - realization times in person-hours per m^2",
+    "data": [
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH4",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Floor Blow-In Insulation ",
+        "Average": 0.4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH16",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Floor Blow-In Insulation ",
+        "Average": 0.4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH20",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Floor Blow-In Insulation ",
+        "Average": 0.4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH42",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Floor Blow-In Insulation ",
+        "Average": 0.3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH51",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Floor Blow-In Insulation ",
+        "Average": 0.5
+      }
+    ]
+  },
+  {
+    "sheet_name": "Solar",
+    "content": "Solar thermal collector",
+    "description": "Solar thermal collector - realization times in person-hours per collector (5m^2)",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 4.3,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 5.1,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 8.5,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 3.2,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 2,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH12",
+        "Date (DD/MM/YYYY)": "2023-02-11",
+        "Measure": "Solar thermal",
+        "Minimum": "=12/(3)",
+        "Average": 6,
+        "Maximum": "=24/(3)"
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH13",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 8,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH14",
+        "Date (DD/MM/YYYY)": "2023-02-18",
+        "Measure": "Solar thermal",
+        "Minimum": "=24/(3)",
+        "Average": 12,
+        "Maximum": "=48/(3)"
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH15",
+        "Date (DD/MM/YYYY)": "2023-02-26",
+        "Measure": "Solar thermal",
+        "Minimum": "=9/(3)",
+        "Average": 4,
+        "Maximum": "=27/(3)"
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH18",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 5,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH19",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Solar thermal",
+        "Minimum": "=6/(3)",
+        "Average": 5,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH23",
+        "Date (DD/MM/YYYY)": "2023-02-07",
+        "Measure": "Solar thermal",
+        "Minimum": "=9/(3)",
+        "Average": 4.5,
+        "Maximum": "=18/(3)"
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH24",
+        "Date (DD/MM/YYYY)": "2023-02-09",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 10,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH30",
+        "Date (DD/MM/YYYY)": "2023-03-04",
+        "Measure": "Solar thermal",
+        "Minimum": 2.4,
+        "Average": 4.8,
+        "Maximum": 6.9
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH36",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Solar thermal",
+        "Minimum": 1.8,
+        "Average": 3,
+        "Maximum": 6.9
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH51",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Solar thermal",
+        "Minimum": "=3/(3)",
+        "Average": 3,
+        "Maximum": "=18/(3)"
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Solar thermal",
+        "Minimum": null,
+        "Average": 8.3,
+        "Maximum": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "PV",
+    "content": "Photovoltaic collectors ",
+    "description": "Photovoltaic collectors - realization times in person-hours per collector",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 4.3,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 6.25,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 10,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH19",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 8.7,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH25",
+        "Date (DD/MM/YYYY)": "2023-02-09",
+        "Measure": "Photovoltaics",
+        "Minimum": 4,
+        "Average": 5.6,
+        "Maximum": 10
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH29",
+        "Date (DD/MM/YYYY)": "2023-02-24",
+        "Measure": "Photovoltaics",
+        "Minimum": 4,
+        "Average": 6,
+        "Maximum": 8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH32",
+        "Date (DD/MM/YYYY)": "2023-03-14",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 8,
+        "Maximum": 12
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH36",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Photovoltaics",
+        "Minimum": 1.8,
+        "Average": 2.4,
+        "Maximum": 3.8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH39",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Photovoltaics",
+        "Minimum": 8,
+        "Average": 10,
+        "Maximum": 16
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH52",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 10,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT24",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "Photovoltaics",
+        "Minimum": 10,
+        "Average": 12,
+        "Maximum": 20
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT29",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 16,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT31",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Photovoltaics",
+        "Minimum": null,
+        "Average": 16,
+        "Maximum": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "Battery",
+    "content": "Battery installation",
+    "description": "Battery - realization times in person-hours ",
+    "data": [
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Battery",
+        "Minimum": 1,
+        "Average": 2,
+        "Maximum": 3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH19",
+        "Date (DD/MM/YYYY)": "2023-01-31",
+        "Measure": "Battery",
+        "Minimum": null,
+        "Average": 1,
+        "Maximum": 4
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH29",
+        "Date (DD/MM/YYYY)": "2023-02-24",
+        "Measure": "Battery",
+        "Minimum": null,
+        "Average": 0.5,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH52",
+        "Date (DD/MM/YYYY)": "2023-02-06",
+        "Measure": "Battery",
+        "Minimum": null,
+        "Average": 1,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT24",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "Battery",
+        "Minimum": null,
+        "Average": 1,
+        "Maximum": 8
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT29",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Battery",
+        "Minimum": null,
+        "Average": 4,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT31",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Battery",
+        "Minimum": null,
+        "Average": 8,
+        "Maximum": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "Gas Deinstall.",
+    "content": "Gas boiler deinstallation ",
+    "description": "Gas boiler deinstallation - realization times in person-hours per boiler",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Gas Deinstallation",
+        "small": 15,
+        "large": 23
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 24
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 50
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas Deinstallation",
+        "small": 25,
+        "large": 24
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 32
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 16
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas Deinstallation",
+        "small": 8,
+        "large": 16
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Gas Deinstallation",
+        "small": 48,
+        "large": 72
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Gas Deinstallation",
+        "small": 6,
+        "large": 12
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 32
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT25",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Gas Deinstallation",
+        "small": 20,
+        "large": 20
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT26",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 24
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT27",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Gas Deinstallation",
+        "small": 16,
+        "large": 30
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT28",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Gas Deinstallation",
+        "small": 20,
+        "large": 32
+      }
+    ]
+  },
+  {
+    "sheet_name": "Oil Deinstall.",
+    "content": "Oil boiler deinstallation",
+    "description": "Oil boiler deinstallation - realization times in person-hours per boiler",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Oil Deinstallation",
+        "small": 25,
+        "large": 33
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Oil Deinstallation",
+        "small": 48,
+        "large": 56
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Oil Deinstallation",
+        "small": 32,
+        "large": 50
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Oil Deinstallation",
+        "small": 25,
+        "large": 48
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Oil Deinstallation",
+        "small": 32,
+        "large": 64
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Oil Deinstallation",
+        "small": 32,
+        "large": 32
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Oil Deinstallation",
+        "small": 12,
+        "large": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Oil Deinstallation",
+        "small": 96,
+        "large": 120
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Oil Deinstallation",
+        "small": 48,
+        "large": 60
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Oil Deinstallation",
+        "small": 16,
+        "large": 32
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT25",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Oil Deinstallation",
+        "small": 30,
+        "large": 30
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT26",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Oil Deinstallation",
+        "small": 30,
+        "large": 30
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT27",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Oil Deinstallation",
+        "small": 50,
+        "large": 50
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT28",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Oil Deinstallation",
+        "small": 32,
+        "large": 32
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT29",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Oil Deinstallation",
+        "small": 32,
+        "large": 32
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT31",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Oil Deinstallation",
+        "small": 50,
+        "large": 50
+      }
+    ]
+  },
+  {
+    "sheet_name": "Radiator",
+    "content": "Radiator exchange ",
+    "description": "Radiator exchange - realization times in person-hours per radiator ",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Radiator exchange",
+        "Average": 6
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Radiator exchange",
+        "Average": 3
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Radiator exchange",
+        "Average": 2
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Radiator exchange",
+        "Average": 3
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Radiator exchange",
+        "Average": 3
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Radiator exchange",
+        "Average": 6
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Radiator exchange",
+        "Average": 1
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Radiator exchange",
+        "Average": 0.25
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Radiator exchange",
+        "Average": 2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT23",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Radiator exchange",
+        "Average": 5
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT25",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Radiator exchange",
+        "Average": 3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT26",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Radiator exchange",
+        "Average": 3
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT29",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Radiator exchange",
+        "Average": 4
+      }
+    ]
+  },
+  {
+    "sheet_name": "Floor Heating",
+    "content": "Floor heating  ",
+    "description": "Floor heating - realization times in person-hours and m^2",
+    "data": [
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH11",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "Floor Heating",
+        "Minimum": 0.4,
+        "Average": 0.5,
+        "Maximum": 0.6
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH13",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Floor Heating",
+        "Minimum": 0,
+        "Average": 0.84,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH15",
+        "Date (DD/MM/YYYY)": "2023-02-26",
+        "Measure": "Floor Heating",
+        "Minimum": 0.75,
+        "Average": 0.84,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH17",
+        "Date (DD/MM/YYYY)": "2023-01-28",
+        "Measure": "Floor Heating",
+        "Minimum": 0.72,
+        "Average": 0.8,
+        "Maximum": null
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT28",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Floor Heating",
+        "Minimum": 0,
+        "Average": 0.75,
+        "Maximum": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "Gas",
+    "content": "Gas boiler installation ",
+    "description": "Gas boiler installation - realization times in person-hours per boiler",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Gas boiler",
+        "Average": 20
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Gas boiler",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Gas boiler",
+        "Average": 56
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas boiler",
+        "Average": 72
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas boiler",
+        "Average": 16
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas boiler",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Gas boiler",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Gas boiler",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Gas boiler",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Gas boiler",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT24",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "Gas boiler",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT26",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Gas boiler",
+        "Average": 40
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT29",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Gas boiler",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT33",
+        "Date (DD/MM/YYYY)": "2023-03-02",
+        "Measure": "Gas boiler",
+        "Average": 50
+      }
+    ]
+  },
+  {
+    "sheet_name": "Pellet",
+    "content": "Pellet boiler installation ",
+    "description": "Pellet boiler installation - realization times in person-hours per boiler",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Pellet boiler",
+        "Average": 26
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Pellet boiler",
+        "Average": 104
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Pellet boiler",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Pellet boiler",
+        "Average": 120
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Pellet boiler",
+        "Average": 60
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Pellet boiler",
+        "Average": 136
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Pellet boiler",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Pellet boiler",
+        "Average": 192
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT24",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "Pellet boiler",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT27",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Pellet boiler",
+        "Average": 112
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT29",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Pellet boiler",
+        "Average": 100
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT31",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Pellet boiler",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT34",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Pellet boiler",
+        "Average": 100
+      }
+    ]
+  },
+  {
+    "sheet_name": "CHP",
+    "content": "CHP installation ",
+    "description": "CHP installation - realization times in person-hours per device",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "CHP",
+        "Average": 26
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "CHP",
+        "Average": 34.5
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "CHP",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "CHP",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "CHP",
+        "Average": 34
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "CHP",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "CHP",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "CHP",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "CHP",
+        "Average": 320
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT25",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "CHP",
+        "Average": 50
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT26",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "CHP",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT27",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "CHP",
+        "Average": 56
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "CHP",
+        "Average": 80
+      }
+    ]
+  },
+  {
+    "sheet_name": "HP Air-Water",
+    "content": "Air-to-Water Heat pump",
+    "description": "Air-to-Water Heat pump installation - realization times in person-hours per device",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "HP Air-Water",
+        "Average": 30
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "HP Air-Water",
+        "Average": 60
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "HP Air-Water",
+        "Average": 28
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Air-Water",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Air-Water",
+        "Average": 40
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Air-Water",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Air-Water",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "HP Air-Water",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "HP Air-Water",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "HP Air-Water",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "HP Air-Water",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT34",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Air-Water",
+        "Average": 60
+      }
+    ]
+  },
+  {
+    "sheet_name": "HP Air-Air",
+    "content": "Air-to-Air Heat pump installation",
+    "description": "Air-to-Air Heat pump installation - realization times in person-hours per device",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "HP Air-Air",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "HP Air-Air",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "HP Air-Air",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "HP Air-Air",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "HP Air-Air",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT32",
+        "Date (DD/MM/YYYY)": "2023-03-01",
+        "Measure": "HP Air-Air",
+        "Average": 80
+      }
+    ]
+  },
+  {
+    "sheet_name": "HP Sole-Air",
+    "content": "Sole-Water Heat pump",
+    "description": "Sole-Water Heat pump installation - realization times in person-hours per device",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "HP Sole-Water",
+        "Average": 20
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "HP Sole-Water",
+        "Average": 20
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "HP Sole-Water",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Sole-Water",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "HP Sole-Water",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "HP Sole-Water",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "HP Sole-Water",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "HP Sole-Water",
+        "Average": 128
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "HP Sole-Water",
+        "Average": 64
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT33",
+        "Date (DD/MM/YYYY)": "2023-03-02",
+        "Measure": "HP Sole-Water",
+        "Average": 60
+      }
+    ]
+  },
+  {
+    "sheet_name": "Geo Probe",
+    "content": "Geothermal probe  ",
+    "description": "Geothermal probe - realization times in person-hours per probe",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Geo Probe",
+        "Average": 50
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Geo Probe",
+        "Average": 84
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Geo Probe",
+        "Average": 110
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT15",
+        "Date (DD/MM/YYYY)": "2023-01-13",
+        "Measure": "Geo Probe",
+        "Average": 110
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT16",
+        "Date (DD/MM/YYYY)": "2023-01-20",
+        "Measure": "Geo Probe",
+        "Average": 49.5
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT17",
+        "Date (DD/MM/YYYY)": "2023-01-20",
+        "Measure": "Geo Probe",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT18",
+        "Date (DD/MM/YYYY)": "2023-01-20",
+        "Measure": "Geo Probe",
+        "Average": 32
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT19",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Geo Probe",
+        "Average": 50
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT20",
+        "Date (DD/MM/YYYY)": "2023-01-25",
+        "Measure": "Geo Probe",
+        "Average": 56
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT21",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo Probe",
+        "Average": 65
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT22",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo Probe",
+        "Average": 122
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT23",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo Probe",
+        "Average": 43.75
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT25",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo Probe",
+        "Average": 140
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT27",
+        "Date (DD/MM/YYYY)": "2023-02-16",
+        "Measure": "Geo Probe",
+        "Average": 100
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GH39",
+        "Date (DD/MM/YYYY)": "2023-01-29",
+        "Measure": "Geo Probe",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "Geo Probe",
+        "Average": 100
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT32",
+        "Date (DD/MM/YYYY)": "2023-03-01",
+        "Measure": "Geo Probe",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT33",
+        "Date (DD/MM/YYYY)": "2023-03-02",
+        "Measure": "Geo Probe",
+        "Average": 100
+      }
+    ]
+  },
+  {
+    "sheet_name": "Geo Col.",
+    "content": "Geothermal collector - realization times in person-hours ",
+    "description": "Geothermal collector - realization times in person-hours per m^2",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Geo collector",
+        "Average": 0.8
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Geo collector",
+        "Average": 2.8
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Geo collector",
+        "Average": 3
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT22",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo collector",
+        "Average": 0.64
+      },
+      {
+        "Interviewer ID": "D",
+        "Company ID": "GT23",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo collector",
+        "Average": 0.56
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT26",
+        "Date (DD/MM/YYYY)": "2023-02-14",
+        "Measure": "Geo collector",
+        "Average": 1.6
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "Geo collector",
+        "Average": 2
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT33",
+        "Date (DD/MM/YYYY)": "2023-03-02",
+        "Measure": "Geo collector",
+        "Average": 2
+      }
+    ]
+  },
+  {
+    "sheet_name": "TS",
+    "content": "Thermal storage ",
+    "description": "Thermal storage - realization times in person-hours per storage",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Thermal Storage",
+        "Small": 11,
+        "Large": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Thermal Storage",
+        "Small": 24,
+        "Large": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Thermal Storage",
+        "Small": 32,
+        "Large": 32
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": 32
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": null
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT7",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": null
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT8",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT9",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": 32
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Thermal Storage",
+        "Small": 16,
+        "Large": 48
+      },
+      {
+        "Interviewer ID": null,
+        "Company ID": null,
+        "Date (DD/MM/YYYY)": null,
+        "Measure": null,
+        "Small": null,
+        "Large": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "Chiller",
+    "content": "Compression chiller ",
+    "description": "Compression chiller installation - realization times in person-hours per chiller",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "Compression Chiller",
+        "Average": 30
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "Compression Chiller",
+        "Average": 60
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Compression Chiller",
+        "Average": 120
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Compression Chiller",
+        "Average": 70
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Compression Chiller",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Compression Chiller",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": null,
+        "Company ID": null,
+        "Date (DD/MM/YYYY)": null,
+        "Measure": null,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "sheet_name": "Fuel Cell",
+    "content": "Fuel cell ",
+    "description": "Fuel cell installation - realization times in person-hours per device",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Fuel cell",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Fuel cell",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "Fuel cell",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "Fuel cell",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "Fuel cell",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT32",
+        "Date (DD/MM/YYYY)": "2023-03-01",
+        "Measure": "Fuel cell",
+        "Average": 160
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT33",
+        "Date (DD/MM/YYYY)": "2023-03-02",
+        "Measure": "Fuel cell",
+        "Average": 100
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT34",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "Fuel cell",
+        "Average": 160
+      }
+    ]
+  },
+  {
+    "sheet_name": "DH",
+    "content": "District heating connection",
+    "description": "District heating connection - realization times in person-hours per connection",
+    "data": [
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT1",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "DH connection",
+        "Average": 20
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT2",
+        "Date (DD/MM/YYYY)": "2023-01-24",
+        "Measure": "DH connection",
+        "Average": 146
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT3",
+        "Date (DD/MM/YYYY)": "2023-02-22",
+        "Measure": "DH connection",
+        "Average": 80
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT4",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "DH connection",
+        "Average": 57.6
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT5",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "DH connection",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "B",
+        "Company ID": "GT6",
+        "Date (DD/MM/YYYY)": "2023-03-08",
+        "Measure": "DH connection",
+        "Average": 16
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT10",
+        "Date (DD/MM/YYYY)": "2022-10-13",
+        "Measure": "DH connection",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT11",
+        "Date (DD/MM/YYYY)": "2023-02-27",
+        "Measure": "DH connection",
+        "Average": 16
+      },
+      {
+        "Interviewer ID": "C",
+        "Company ID": "GT12",
+        "Date (DD/MM/YYYY)": "2023-02-02",
+        "Measure": "DH connection",
+        "Average": 48
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT24",
+        "Date (DD/MM/YYYY)": "2023-02-03",
+        "Measure": "DH connection",
+        "Average": 30
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT30",
+        "Date (DD/MM/YYYY)": "2023-02-25",
+        "Measure": "DH connection",
+        "Average": 24
+      },
+      {
+        "Interviewer ID": "A",
+        "Company ID": "GT33",
+        "Date (DD/MM/YYYY)": "2023-03-02",
+        "Measure": "DH connection",
+        "Average": 32
+      }
+    ]
+  }
+]
