@@ -12,7 +12,7 @@ This repository contains the following files and folders:
 	> Realization times by modernization measure. The file contains all interview data, divided into one sheet per modernization measure.
 - '''raw_data_csv''':
 	> Folder containing the realization times by modernization measure in csv format in different files per measure.
-- '''interview_guidline.pdf''':
+- '''interview_guideline.pdf''':
 	> Interview guidline used in the expert interviews. Other data can be collected by using the guideline.
 - '''paper.pdf''':
 	> Paper describing the method of data collection, statistical analyses, technical validation and usage notes.
@@ -21,9 +21,9 @@ This repository contains the following files and folders:
 	
 ## Publications
 
-The realization times will be presented in an open access peer-reviewed paper. Until its publication the realization times should be cited in the following way:
+The realization times are presented in an open access peer-reviewed paper and should be cited in the following way:
 
-<i>	Richarz, J.; Fuchs, N.; Zurke, J.; Imberg, J.; Datsko, T.; Hering, D.; Müller, D.. Realization times of energetic modernization measures for buildings based on interviews with craftworkers. Aachen: Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University, 2023. https://github.com/RWTH-EBC/CrafTiMod
+<i>	Richarz, J.; Fuchs, N.; Zurke, J.; Imberg, J.; Datsko, T.; Hering, D.; Müller, D.. Realization times of energetic modernization measures for buildings based on interviews with craftworkers. Scientific Data 10, 476 (2023). https://doi.org/10.1038/s41597-023-02379-6
 
 ## License & copyright
 
