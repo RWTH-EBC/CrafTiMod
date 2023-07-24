@@ -6,16 +6,18 @@ This repository contains data for realization times of modernization measures fo
 
 ## Files
 
-This repository contains the following files and folders: 
+This repository contains the following files and folders which are all described in the paper in detail: 
 
 - '''realization_times.xlsx''':
 	> Realization times by modernization measure. The file contains all interview data, divided into one sheet per modernization measure.
 - '''raw_data_csv''':
-	> Folder containing the realization times by modernization measure in csv format in different files per measure.
+	> Folder containing the realization times of modernization measure in csv format in different files per measure.
+- '''realization_times.json''':
+	> json file containing the realization times sorted into objects per modernization measure.
 - '''interview_guideline.pdf''':
-	> Interview guidline used in the expert interviews. Other data can be collected by using the guideline.
-- '''paper.pdf''':
-	> Paper describing the method of data collection, statistical analyses, technical validation and usage notes.
+	> Interview guideline used in the expert interviews. Further data can be collected by using the guideline.
+- '''final_paper.pdf''':
+	> Peer-reviewed paper in Nature Scientific Data describing the method of data collection, statistical analyses, technical validation and usage notes.
 - '''LICENSE''':
 	> License under which the data can be used. 
 	
